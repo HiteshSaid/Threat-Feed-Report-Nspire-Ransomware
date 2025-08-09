@@ -1,3 +1,19 @@
-# Threat-Feed-Report-Nspire-Ransomware
-This repository contains the Threat Feed Report for the ransomware strain Nspire (also known as NightSpire Virus). This project documents the ransomware's behavior, technical indicators, attribution, and recommended mitigation strategies. It is intended for cybersecurity professionals, SOC analysts, and threat intelligence teams.
+#  Nspire Ransomware Threat Feed Report
 
+Explore in-depth analysis of the **Nspire (NightSpire) ransomware**, a financially motivated malware targeting finance, logistics, healthcare, and technology sectors.
+
+- Focuses on ransomware behavior, indicators of compromise (IOCs), MITRE ATT&CK mapping, and sector-specific impact.
+- Offers actionable mitigation strategies for defense teams and SOC analysts.
+
+---
+
+##  View the Full Report  
+[Download the complete PDF report here »](https://github.com/HiteshSaid/Threat-Feed-Report-Nspire-Ransomware/blob/main/Threat-Feed-Report-Nspire%20-Hitesh%20Said.pdf)
+
+---
+
+##  About  
+- **Author:** Hitesh Said  
+- **Date:** 19 July 2025  
+- **Threat Name:** NightSpire Virus (Nspire)  
+- **Type:** Ransomware | Fileslocker | Stealer | Spyware
